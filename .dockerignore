@@ -1,0 +1,30 @@
+# Node
+node_modules/
+dist/
+.angular/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docs and instructions (not needed in containers)
+Instructions/
+phases/
